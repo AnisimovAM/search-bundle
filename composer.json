@@ -1,5 +1,5 @@
 {
-    "name": "algolia/search-bundle",
+    "name": "anisimov/search-bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
